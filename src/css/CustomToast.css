@@ -1,0 +1,12 @@
+.custom-toast {
+  background-color: red !important;
+  color: white !important;
+}
+
+.custom-toast-body {
+  color: white !important;
+}
+
+.custom-toast-progress {
+  background: white !important; /* 👈 white progress line */
+}

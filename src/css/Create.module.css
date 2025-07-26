@@ -1,0 +1,18 @@
+.txtbox{
+    resize: none;
+    padding-top: 12px;
+  height: 180px;
+  border: none;
+  background: none;
+  width: 100%;
+  outline: none;
+}
+
+.inp{
+  border: none;
+  background: none;
+  width: 100%;
+  outline: none;
+  font-size: 22px;
+  font-weight: 600;
+}
